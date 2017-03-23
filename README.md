@@ -1,2 +1,2 @@
 # NeuralNetworkTest
-All neural network codes.
+Testing y=x NeuralNetwork
